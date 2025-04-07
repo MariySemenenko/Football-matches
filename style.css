@@ -2,6 +2,11 @@
 body {
     font-family: Arial, sans-serif;
     color: #333;
+
+    width: 100%;
+    max-width: 1440px;
+    margin: 0 auto;
+    padding: 0 1 rem;
 }
 
 form {
