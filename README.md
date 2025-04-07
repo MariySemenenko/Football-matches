@@ -3,6 +3,8 @@
 ## Description
 This plugin allows you to display football matches using the football-data.org API. It lets you select a league and specify a date range to display matches. There is also an option to upload an image that will be displayed on the page.
 
+For more information, visit the [example website](https://www.dev-07.semenenko.pp.ua).
+
 ## Features
 - Select a league
 - Select a date range
